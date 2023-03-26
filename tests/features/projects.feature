@@ -9,7 +9,7 @@ Background: Login into Todoist
 Scenario: Create Project
     Given the user hovers the mouse on Projects label on the Vertical Menu
     And the user clicks the Add Project Icon on the Vertical Menu
-    And the user sets "Ariel123" as Project Name on the Add Project popup
+    And the user sets "QADB123" as Project Name on the Add Project popup
     And the user select the "Red" color
     And the user select the "Add to favorites" Toggle
     And the user select the "List" view option
